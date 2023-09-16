@@ -1,0 +1,126 @@
+---
+object: card
+id: dd52f249-14bd-4489-aaba-03e50fe42c2e
+oracle_id: a9a0088a-3c86-4baf-9754-79006f733ce1
+multiverse_ids:
+- 198180
+mtgo_id: 36752
+mtgo_foil_id: 36753
+tcgplayer_id: 34733
+cardmarket_id: 22503
+name: Nomads' Assembly
+lang: en
+released_at: '2010-04-23'
+uri: https://api.scryfall.com/cards/dd52f249-14bd-4489-aaba-03e50fe42c2e
+scryfall_uri: https://scryfall.com/card/roe/39/nomads-assembly?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/d/dd52f249-14bd-4489-aaba-03e50fe42c2e.jpg?1562709376
+  normal: https://cards.scryfall.io/normal/front/d/d/dd52f249-14bd-4489-aaba-03e50fe42c2e.jpg?1562709376
+  large: https://cards.scryfall.io/large/front/d/d/dd52f249-14bd-4489-aaba-03e50fe42c2e.jpg?1562709376
+  png: https://cards.scryfall.io/png/front/d/d/dd52f249-14bd-4489-aaba-03e50fe42c2e.png?1562709376
+  art_crop: https://cards.scryfall.io/art_crop/front/d/d/dd52f249-14bd-4489-aaba-03e50fe42c2e.jpg?1562709376
+  border_crop: https://cards.scryfall.io/border_crop/front/d/d/dd52f249-14bd-4489-aaba-03e50fe42c2e.jpg?1562709376
+mana_cost: "{4}{W}{W}"
+cmc: 6.0
+type_line: Sorcery
+oracle_text: |-
+  Create a 1/1 white Kor Soldier creature token for each creature you control.
+  Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Rebound
+all_parts:
+- object: related_card
+  id: 8907c15d-831b-47d5-b2b5-7759876b8f33
+  component: token
+  name: Kor Soldier
+  type_line: Token Creature — Kor Soldier
+  uri: https://api.scryfall.com/cards/8907c15d-831b-47d5-b2b5-7759876b8f33
+- object: related_card
+  id: dd52f249-14bd-4489-aaba-03e50fe42c2e
+  component: combo_piece
+  name: Nomads' Assembly
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/dd52f249-14bd-4489-aaba-03e50fe42c2e
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: eadb8a82-ec56-4623-b50e-42e7e60cb535
+set: roe
+set_name: Rise of the Eldrazi
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/eadb8a82-ec56-4623-b50e-42e7e60cb535
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aroe&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/roe?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/dd52f249-14bd-4489-aaba-03e50fe42c2e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa9a0088a-3c86-4baf-9754-79006f733ce1&unique=prints
+collector_number: '39'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Erica Yang
+artist_ids:
+- fcc15b63-b280-49da-9fee-f862824a2fc8
+illustration_id: fd8f31ea-fa0b-494b-b950-202ba1f68c4e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 6947
+penny_rank: 8457
+prices:
+  usd: '0.48'
+  usd_foil: '0.95'
+  usd_etched: 
+  eur: '0.37'
+  eur_foil: '1.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198180
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nomads%27+Assembly&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nomads%27+Assembly&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nomads%27+Assembly
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/34733?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nomads%27+Assembly&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/36752?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

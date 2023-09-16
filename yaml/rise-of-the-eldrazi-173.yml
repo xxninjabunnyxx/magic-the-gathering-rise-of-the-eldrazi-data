@@ -1,0 +1,113 @@
+---
+object: card
+id: babdaf80-f9a3-42cb-9df6-10878301f335
+oracle_id: b46efd59-eda7-4fe6-ace7-67ca8f6c088d
+multiverse_ids:
+- 193563
+mtgo_id: 36546
+mtgo_foil_id: 36547
+tcgplayer_id: 34867
+cardmarket_id: 22654
+name: Wrap in Flames
+lang: en
+released_at: '2010-04-23'
+uri: https://api.scryfall.com/cards/babdaf80-f9a3-42cb-9df6-10878301f335
+scryfall_uri: https://scryfall.com/card/roe/173/wrap-in-flames?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/a/babdaf80-f9a3-42cb-9df6-10878301f335.jpg?1562707939
+  normal: https://cards.scryfall.io/normal/front/b/a/babdaf80-f9a3-42cb-9df6-10878301f335.jpg?1562707939
+  large: https://cards.scryfall.io/large/front/b/a/babdaf80-f9a3-42cb-9df6-10878301f335.jpg?1562707939
+  png: https://cards.scryfall.io/png/front/b/a/babdaf80-f9a3-42cb-9df6-10878301f335.png?1562707939
+  art_crop: https://cards.scryfall.io/art_crop/front/b/a/babdaf80-f9a3-42cb-9df6-10878301f335.jpg?1562707939
+  border_crop: https://cards.scryfall.io/border_crop/front/b/a/babdaf80-f9a3-42cb-9df6-10878301f335.jpg?1562707939
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Wrap in Flames deals 1 damage to each of up to three target creatures.
+  Those creatures can't block this turn.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: eadb8a82-ec56-4623-b50e-42e7e60cb535
+set: roe
+set_name: Rise of the Eldrazi
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/eadb8a82-ec56-4623-b50e-42e7e60cb535
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aroe&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/roe?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/babdaf80-f9a3-42cb-9df6-10878301f335/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab46efd59-eda7-4fe6-ace7-67ca8f6c088d&unique=prints
+collector_number: '173'
+digital: false
+rarity: common
+flavor_text: |-
+  "Our pyromancer's flames may not have killed them, but they bought us the time we needed."
+  —*The War Diaries*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Véronique Meignaud
+artist_ids:
+- 41084244-a313-4d14-8123-db05855f9cfe
+illustration_id: c9e79264-cbe0-4eed-bc42-12c6486f1532
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18600
+prices:
+  usd: '0.06'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.14'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193563
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wrap+in+Flames&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wrap+in+Flames&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wrap+in+Flames
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/34867?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wrap+in+Flames&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/36546?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,122 @@
+---
+object: card
+id: 341f4ea1-8101-4e2e-b824-4b0e88ea71f1
+oracle_id: 759774d2-abcf-4fc6-8433-5f251e80c70e
+multiverse_ids:
+- 194933
+mtgo_id: 36696
+mtgo_foil_id: 36697
+tcgplayer_id: 34813
+cardmarket_id: 22564
+name: Nirkana Cutthroat
+lang: en
+released_at: '2010-04-23'
+uri: https://api.scryfall.com/cards/341f4ea1-8101-4e2e-b824-4b0e88ea71f1
+scryfall_uri: https://scryfall.com/card/roe/119/nirkana-cutthroat?utm_source=api
+layout: leveler
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/4/341f4ea1-8101-4e2e-b824-4b0e88ea71f1.jpg?1562702693
+  normal: https://cards.scryfall.io/normal/front/3/4/341f4ea1-8101-4e2e-b824-4b0e88ea71f1.jpg?1562702693
+  large: https://cards.scryfall.io/large/front/3/4/341f4ea1-8101-4e2e-b824-4b0e88ea71f1.jpg?1562702693
+  png: https://cards.scryfall.io/png/front/3/4/341f4ea1-8101-4e2e-b824-4b0e88ea71f1.png?1562702693
+  art_crop: https://cards.scryfall.io/art_crop/front/3/4/341f4ea1-8101-4e2e-b824-4b0e88ea71f1.jpg?1562702693
+  border_crop: https://cards.scryfall.io/border_crop/front/3/4/341f4ea1-8101-4e2e-b824-4b0e88ea71f1.jpg?1562702693
+mana_cost: "{2}{B}"
+cmc: 3.0
+type_line: Creature — Vampire Warrior
+oracle_text: |-
+  Level up {2}{B} ({2}{B}: Put a level counter on this. Level up only as a sorcery.)
+  LEVEL 1-2
+  4/3
+  Deathtouch
+  LEVEL 3+
+  5/4
+  First strike, deathtouch
+power: '3'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- First strike
+- Level Up
+- Deathtouch
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: eadb8a82-ec56-4623-b50e-42e7e60cb535
+set: roe
+set_name: Rise of the Eldrazi
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/eadb8a82-ec56-4623-b50e-42e7e60cb535
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aroe&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/roe?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/341f4ea1-8101-4e2e-b824-4b0e88ea71f1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A759774d2-abcf-4fc6-8433-5f251e80c70e&unique=prints
+collector_number: '119'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Erica Yang
+artist_ids:
+- fcc15b63-b280-49da-9fee-f862824a2fc8
+illustration_id: 53530f82-22ce-48f3-8fc9-f8573e19dbf4
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17208
+penny_rank: 5540
+prices:
+  usd: '0.27'
+  usd_foil: '1.89'
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: '1.00'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194933
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nirkana+Cutthroat&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nirkana+Cutthroat&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nirkana+Cutthroat
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/34813?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nirkana+Cutthroat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/36696?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

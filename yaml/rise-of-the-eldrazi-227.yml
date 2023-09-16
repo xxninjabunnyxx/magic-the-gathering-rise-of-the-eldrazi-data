@@ -1,0 +1,112 @@
+---
+object: card
+id: 315924c9-77e3-405b-9bbf-852ed563c6e3
+oracle_id: 7fab8d65-af51-47d3-8f10-2676bf6e8ba3
+multiverse_ids:
+- 198312
+mtgo_id: 36780
+mtgo_foil_id: 36781
+tcgplayer_id: 34921
+cardmarket_id: 22426
+name: Eldrazi Temple
+lang: en
+released_at: '2010-04-23'
+uri: https://api.scryfall.com/cards/315924c9-77e3-405b-9bbf-852ed563c6e3
+scryfall_uri: https://scryfall.com/card/roe/227/eldrazi-temple?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/1/315924c9-77e3-405b-9bbf-852ed563c6e3.jpg?1562702580
+  normal: https://cards.scryfall.io/normal/front/3/1/315924c9-77e3-405b-9bbf-852ed563c6e3.jpg?1562702580
+  large: https://cards.scryfall.io/large/front/3/1/315924c9-77e3-405b-9bbf-852ed563c6e3.jpg?1562702580
+  png: https://cards.scryfall.io/png/front/3/1/315924c9-77e3-405b-9bbf-852ed563c6e3.png?1562702580
+  art_crop: https://cards.scryfall.io/art_crop/front/3/1/315924c9-77e3-405b-9bbf-852ed563c6e3.jpg?1562702580
+  border_crop: https://cards.scryfall.io/border_crop/front/3/1/315924c9-77e3-405b-9bbf-852ed563c6e3.jpg?1562702580
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  {T}: Add {C}{C}. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: eadb8a82-ec56-4623-b50e-42e7e60cb535
+set: roe
+set_name: Rise of the Eldrazi
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/eadb8a82-ec56-4623-b50e-42e7e60cb535
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aroe&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/roe?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/315924c9-77e3-405b-9bbf-852ed563c6e3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7fab8d65-af51-47d3-8f10-2676bf6e8ba3&unique=prints
+collector_number: '227'
+digital: false
+rarity: rare
+flavor_text: Each temple is a door to a horrible future.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: James Paick
+artist_ids:
+- 1a7be0a2-d8ac-45c7-b0a0-eb0886f47b5f
+illustration_id: 883f18bf-fe71-4c7f-8a4e-d66b076a3bb8
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2523
+prices:
+  usd: '3.87'
+  usd_foil: '39.44'
+  usd_etched: 
+  eur: '2.39'
+  eur_foil: '24.99'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198312
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Eldrazi+Temple&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Eldrazi+Temple&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Eldrazi+Temple
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/34921?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Eldrazi+Temple&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/36780?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

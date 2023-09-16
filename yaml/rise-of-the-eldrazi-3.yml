@@ -1,0 +1,112 @@
+---
+object: card
+id: 28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a
+oracle_id: 3635e4e5-e655-45f4-a444-39756f55129a
+multiverse_ids:
+- 193492
+mtgo_id: 36454
+mtgo_foil_id: 36455
+tcgplayer_id: 34697
+cardmarket_id: 22431
+name: Eldrazi Conscription
+lang: en
+released_at: '2010-04-23'
+uri: https://api.scryfall.com/cards/28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a
+scryfall_uri: https://scryfall.com/card/roe/3/eldrazi-conscription?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/8/28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a.jpg?1562702199
+  normal: https://cards.scryfall.io/normal/front/2/8/28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a.jpg?1562702199
+  large: https://cards.scryfall.io/large/front/2/8/28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a.jpg?1562702199
+  png: https://cards.scryfall.io/png/front/2/8/28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a.png?1562702199
+  art_crop: https://cards.scryfall.io/art_crop/front/2/8/28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a.jpg?1562702199
+  border_crop: https://cards.scryfall.io/border_crop/front/2/8/28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a.jpg?1562702199
+mana_cost: "{8}"
+cmc: 8.0
+type_line: Tribal Enchantment — Eldrazi Aura
+oracle_text: |-
+  Enchant creature
+  Enchanted creature gets +10/+10 and has trample and annihilator 2. (Whenever it attacks, defending player sacrifices two permanents.)
+colors: []
+color_identity: []
+keywords:
+- Enchant
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: eadb8a82-ec56-4623-b50e-42e7e60cb535
+set: roe
+set_name: Rise of the Eldrazi
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/eadb8a82-ec56-4623-b50e-42e7e60cb535
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aroe&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/roe?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3635e4e5-e655-45f4-a444-39756f55129a&unique=prints
+collector_number: '3'
+digital: false
+rarity: rare
+flavor_text: The barest taste of Eldrazi power shatters both realms and identities.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jaime Jones
+artist_ids:
+- 92f6c2c1-fa57-4b52-99c4-0fd866c13dc9
+illustration_id: 2794f8e2-e5bf-4b30-b388-333a227cabbc
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1792
+penny_rank: 3243
+prices:
+  usd: '14.71'
+  usd_foil: '52.66'
+  usd_etched: 
+  eur: '9.86'
+  eur_foil: '10.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193492
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Eldrazi+Conscription&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Eldrazi+Conscription&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Eldrazi+Conscription
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/34697?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Eldrazi+Conscription&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/36454?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

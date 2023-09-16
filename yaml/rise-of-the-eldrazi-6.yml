@@ -1,0 +1,113 @@
+---
+object: card
+id: 067fac91-2483-4678-b86a-2c54a3a480cf
+oracle_id: 7b8528b0-71eb-4c9e-bed9-aa2d2e84038f
+multiverse_ids:
+- 193632
+mtgo_id: 36628
+mtgo_foil_id: 36629
+tcgplayer_id: 34700
+cardmarket_id: 22350
+name: Kozilek, Butcher of Truth
+lang: en
+released_at: '2010-04-23'
+uri: https://api.scryfall.com/cards/067fac91-2483-4678-b86a-2c54a3a480cf
+scryfall_uri: https://scryfall.com/card/roe/6/kozilek-butcher-of-truth?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/6/067fac91-2483-4678-b86a-2c54a3a480cf.jpg?1562700832
+  normal: https://cards.scryfall.io/normal/front/0/6/067fac91-2483-4678-b86a-2c54a3a480cf.jpg?1562700832
+  large: https://cards.scryfall.io/large/front/0/6/067fac91-2483-4678-b86a-2c54a3a480cf.jpg?1562700832
+  png: https://cards.scryfall.io/png/front/0/6/067fac91-2483-4678-b86a-2c54a3a480cf.png?1562700832
+  art_crop: https://cards.scryfall.io/art_crop/front/0/6/067fac91-2483-4678-b86a-2c54a3a480cf.jpg?1562700832
+  border_crop: https://cards.scryfall.io/border_crop/front/0/6/067fac91-2483-4678-b86a-2c54a3a480cf.jpg?1562700832
+mana_cost: "{10}"
+cmc: 10.0
+type_line: Legendary Creature — Eldrazi
+oracle_text: |-
+  When you cast this spell, draw four cards.
+  Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)
+  When Kozilek, Butcher of Truth is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.
+power: '12'
+toughness: '12'
+colors: []
+color_identity: []
+keywords:
+- Annihilator
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: eadb8a82-ec56-4623-b50e-42e7e60cb535
+set: roe
+set_name: Rise of the Eldrazi
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/eadb8a82-ec56-4623-b50e-42e7e60cb535
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aroe&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/roe?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/067fac91-2483-4678-b86a-2c54a3a480cf/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7b8528b0-71eb-4c9e-bed9-aa2d2e84038f&unique=prints
+collector_number: '6'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Michael Komarck
+artist_ids:
+- 96a53b95-fe5f-4fbb-9411-ccf4ee150aca
+illustration_id: 8a8e7660-855a-4ebb-8942-6c56d178c88e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 809
+prices:
+  usd: '46.67'
+  usd_foil: '171.17'
+  usd_etched: 
+  eur: '30.99'
+  eur_foil: '160.00'
+  tix: '0.87'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193632
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kozilek%2C+Butcher+of+Truth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kozilek%2C+Butcher+of+Truth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kozilek%2C+Butcher+of+Truth
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/34700?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kozilek%2C+Butcher+of+Truth&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/36628?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

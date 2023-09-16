@@ -1,0 +1,120 @@
+---
+object: card
+id: abb327b4-01b0-468c-9916-129c7c64341d
+oracle_id: fb98f6b7-5986-4c5d-98fc-e5c4106f48bf
+multiverse_ids:
+- 198163
+mtgo_id: 36722
+mtgo_foil_id: 36723
+tcgplayer_id: 34758
+cardmarket_id: 22444
+name: Echo Mage
+lang: en
+released_at: '2010-04-23'
+uri: https://api.scryfall.com/cards/abb327b4-01b0-468c-9916-129c7c64341d
+scryfall_uri: https://scryfall.com/card/roe/64/echo-mage?utm_source=api
+layout: leveler
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/b/abb327b4-01b0-468c-9916-129c7c64341d.jpg?1562707261
+  normal: https://cards.scryfall.io/normal/front/a/b/abb327b4-01b0-468c-9916-129c7c64341d.jpg?1562707261
+  large: https://cards.scryfall.io/large/front/a/b/abb327b4-01b0-468c-9916-129c7c64341d.jpg?1562707261
+  png: https://cards.scryfall.io/png/front/a/b/abb327b4-01b0-468c-9916-129c7c64341d.png?1562707261
+  art_crop: https://cards.scryfall.io/art_crop/front/a/b/abb327b4-01b0-468c-9916-129c7c64341d.jpg?1562707261
+  border_crop: https://cards.scryfall.io/border_crop/front/a/b/abb327b4-01b0-468c-9916-129c7c64341d.jpg?1562707261
+mana_cost: "{1}{U}{U}"
+cmc: 3.0
+type_line: Creature — Human Wizard
+oracle_text: |-
+  Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)
+  LEVEL 2-3
+  2/4
+  {U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy.
+  LEVEL 4+
+  2/5
+  {U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.
+power: '2'
+toughness: '3'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Level Up
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: eadb8a82-ec56-4623-b50e-42e7e60cb535
+set: roe
+set_name: Rise of the Eldrazi
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/eadb8a82-ec56-4623-b50e-42e7e60cb535
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aroe&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/roe?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/abb327b4-01b0-468c-9916-129c7c64341d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afb98f6b7-5986-4c5d-98fc-e5c4106f48bf&unique=prints
+collector_number: '64'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Stewart
+artist_ids:
+- 20871267-2d8a-41d5-b03a-be3d557c5734
+illustration_id: e94e9826-ada9-4754-980a-4f1eb1c4f1e1
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 9943
+penny_rank: 11721
+prices:
+  usd: '0.36'
+  usd_foil: '2.55'
+  usd_etched: 
+  eur: '0.08'
+  eur_foil: '0.70'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198163
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Echo+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Echo+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Echo+Mage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/34758?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Echo+Mage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/36722?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
